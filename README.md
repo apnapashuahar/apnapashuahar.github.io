@@ -23,20 +23,20 @@ We publish hours, offerings and contact paths clearly so customers know what to 
 
 ---
 
-## Our promise
+## Why we exist
 
-At Apnapashuahar, great accounting firm shouldn't require guesswork. We publish hours, prices, and policies so your visit starts with confidence.
+Apnapashuahar exists to make accounting firm feel personal in Detroit — clear pricing, honest recommendations, and a team that remembers why you came back.
 
-- Transparent menus and service lists
-- Staff who explain options without pressure
-- Quality that holds up visit after visit
-- Follow-through when something needs fixing
+- Rooted in Detroit with regulars who know our name
+- Offerings that match what we publish online
+- Support you can reach during real hours
+- A space built for repeat visits, not one-offs
 
 ---
 
-## The long view
+## Where we're headed
 
-Become the accounting firm benchmark in Detroit — known for craft, accessibility, and a brand identity that feels unmistakably Apnapashuahar.
+We're growing Apnapashuahar into a professional people recommend without hesitation — more depth in our craft, same straightforward experience at the door.
 
 ---
 
@@ -94,6 +94,14 @@ Become the accounting firm benchmark in Detroit — known for craft, accessibili
 
 # Brand Style
 
+### Modern Everyday
+
+Clean, comfortable options for daily life.
+
+### Signature Edit
+
+Distinctive pieces that define the brand look.
+
 ### Refined Essentials
 
 Timeless basics that mix with almost anything.
@@ -102,17 +110,13 @@ Timeless basics that mix with almost anything.
 
 Elevated selections when the occasion asks for more.
 
-### Seasonal Rotation
-
-Fresh highlights without resetting the whole catalog.
-
-### Workday Ready
-
-Practical choices that still look intentional.
-
 ---
 
 # Why Choose Apnapashuahar?
+
+### Local roots
+
+Based in Detroit with a team you can meet in person.
 
 ### Craft first
 
@@ -125,10 +129,6 @@ Consistency matters more than one flashy launch.
 ### Local roots
 
 Based in Detroit with a team you can meet in person.
-
-### Craft first
-
-We invest in the work behind the counter, not filler marketing.
 ---
 
 # What the website includes
